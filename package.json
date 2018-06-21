@@ -12,12 +12,9 @@
   "dependencies": {
     "body-parser": "^1.18.3",
     "express": "^4.16.3",
+    "mongoose": "^5.1.6",
     "passport": "^0.4.0",
-    "passport-google-id-token": "^0.4.5",
-    "passport-google-oauth": "^1.0.0",
-    "passport-google-oauth2": "^0.1.6",
-    "passport-google-oauth20": "^1.0.0",
-    "passport-google-plus-token": "^2.1.0"
+    "passport-google-id-token": "^0.4.5"
   },
   "devDependencies": {
     "nodemon": "^1.17.5"
